@@ -1,0 +1,7 @@
+{
+  "appId": "C7JI1IT422FZI1ydFYtOQ1qHqm37sCg4p3qPk5au",
+  "masterKey": "Ip990oT0ylRYf60oxmTTqB8bAymD92IJeSIN5oWh",
+  "appName": "duxx-parse",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/duxx-parse"
+}
